@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2010\Projects\SampleProjectCRUD\SampleProjectCRUD\bin\Debug\SampleProjectCRUD.dll
+c:\users\administrator\documents\visual studio 2010\Projects\SampleProjectCRUD\SampleProjectCRUD\bin\Debug\SampleProjectCRUD.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\SampleProjectCRUD\SampleProjectCRUD\obj\Debug\SampleProjectCRUD.dll
+c:\users\administrator\documents\visual studio 2010\Projects\SampleProjectCRUD\SampleProjectCRUD\obj\Debug\SampleProjectCRUD.pdb
