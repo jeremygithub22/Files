@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="2.0.0.3" name="HRMIS-Solano.exe" publicKeyToken="c9811f6e75d73d28" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="human_mang_web.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="HRMIS-Solano" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="HRMIS-Solano.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ADODB" version="7.0.3300.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.Common" version="9.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.ProcessingObjectModel" version="9.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.WinForms" version="9.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.VisualBasic.PowerPacks.Vs" version="9.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="MySql.Data" version="5.2.3.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="HRMIS-Solano.exe" size="38156288">
+      <assemblyIdentity name="HRMIS-Solano" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>EQmukXXv0r0JzJ5VjUskB0IAySY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="HRMIS-Solano.exe.config" size="77">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>w7WNgu5MxCvL4DAgISBxgwmhDzU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="human_mang_web.ico" size="578126">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>0A5FRpJYAgMfEVXYd3tMEeD3cUo=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=user-PC\user" issuerKeyHash="b5bfc4da08c06c87db68cefa5a856841909fe78d" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>d7Yyz5HfszvSpTGIkakNejNolt0=</DigestValue></Reference></SignedInfo><SignatureValue>QP/CJ89ofrfj2DYF4OSGGDEW6DlN0ZMPLnX0fRLCUXTrbAiUbKL9RHmjn0MDxxvaBwupZax2VdnAVLxQK5gDguwrSjyKwok5211ADud6N3lsJDb011PptUvs8/orMKyH5eralLiCtwdnolRiz/uxgSL4fiDHQV3nbh00zIOOs+k=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>qj6llwHGdcQv1DOm2suubHsF2S5vKIylEBoKJzC8AxqP/FBkB4Gw+EJr2tqdIO0l0fo9R/yo875h1SvZFWcYHzSy8RHiW5GDWOgybw0AHEkV6fRNpZVtGGPD6rYZ/7XcZK4VLK6qmXpYqmAgnUl05XgdD+sjC5EYA2TQ7bvZ+o8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="dd9668337a0da9918831a5d23bb3df91cf32b677" Description="" Url=""><as:assemblyIdentity version="2.0.0.3" name="HRMIS-Solano.exe" publicKeyToken="c9811f6e75d73d28" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=user-PC\user</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>7UoUCHGZRmLBWDP1VQJ3BEAzzWY=</DigestValue></Reference></SignedInfo><SignatureValue>gqYHDrd/2iJ43umcOc2HSZaelXh6AWEYC09ZczfRdcAIOgGO8sGqoMosmilgLmXc/OcvGuQ079P3QVDVFtdV/GpZ5guy0JhT0x7X9Rxz2uzXzZ6RDUx7KD1xY10Prtpzc38PS/5bMcNIrclAN1G61RO1yPtzJ4iKSXK3X0+tCDU=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>qj6llwHGdcQv1DOm2suubHsF2S5vKIylEBoKJzC8AxqP/FBkB4Gw+EJr2tqdIO0l0fo9R/yo875h1SvZFWcYHzSy8RHiW5GDWOgybw0AHEkV6fRNpZVtGGPD6rYZ/7XcZK4VLK6qmXpYqmAgnUl05XgdD+sjC5EYA2TQ7bvZ+o8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQXINZEI3plqRDGt+JHT7y/jANBgkqhkiG9w0BAQUFADAjMSEwHwYDVQQDHhgAdQBzAGUAcgAtAFAAQwBcAHUAcwBlAHIwHhcNMTMwMjA3MDAzMzUwWhcNMTQwMjA3MDYzMzUwWjAjMSEwHwYDVQQDHhgAdQBzAGUAcgAtAFAAQwBcAHUAcwBlAHIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKo+pZcBxnXEL9QzptrLrmx7BdkubyiMpRAaCicwvAMaj/xQZAeBsPhCa9ranSDtJdH6PUf8qPO+YdUr2RVnGB80svER4luRg1joMm8NABxJFen0TaWVbRhjw+q2Gf+13GSuFSyuqpl6WKpgIJ1JdOV4HQ/rIwuRGANk0O272fqPAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAPb+6OaornH7i6yIKFChNjHaXCPzJRJ2hsjGXt95oSz2sbVW9wGECm+5+NOEfjMGy/8MB5XJPVqJaCPZmbXyaKaf78d0UKQUXIRoj9LdmmIOocB64A3yxlpJX3+M8bmwSX91BlfYZVdA1FsTykMD97a14Wj0/+AtzcX/8JAQ2A8g=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

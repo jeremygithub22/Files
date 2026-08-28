@@ -1,0 +1,560 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\bin\Debug\HRMIS-Solano.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\bin\Debug\HRMIS-Solano.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\bin\Debug\HRMIS-Solano.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLogin.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS-Solano.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS-Solano.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS-Solano.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmMain.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPI.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPI2.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPImain.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFB.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSpouse.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSiblings.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmEB.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmCSE.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmWE.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmVW.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmTP.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmOI.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmRef.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmOIC.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPDSmainreport.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPDSpreview.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\RdlCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmUserAcct.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmChangePass.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmUserLogs.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmBR.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLS.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmArrival.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLSreport.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmConfiguration.resources
+F:\HRMIS-Solano\HRMIS-Solano\bin\Debug\HRMIS-Solano.exe.config
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS-Solano.exe
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS-Solano.pdb
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\ResolveAssemblyReference.cache
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPDSmainreport.resources
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPDSpreview.resources
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.Properties.Resources.resources
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS-Solano.csproj.GenerateResource.Cache
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmArrival.resources
+F:\HRMIS-Solano\HRMIS-Solano\bin\Debug\HRMIS-Solano.exe
+F:\HRMIS-Solano\HRMIS-Solano\bin\Debug\HRMIS-Solano.pdb
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmBR.resources
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmChangePass.resources
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmConfiguration.resources
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmCSE.resources
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmEB.resources
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFB.resources
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLogin.resources
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLS.resources
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLSreport.resources
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmMain.resources
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmOI.resources
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmOIC.resources
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPI.resources
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPI2.resources
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPImain.resources
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmRef.resources
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSiblings.resources
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSpouse.resources
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmTP.resources
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmUserAcct.resources
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmUserLogs.resources
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmVW.resources
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmWE.resources
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\RdlCompile.cache
+F:\HRMIS-Solano\HRMIS-Solano\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\bin\Debug\HRMIS-Solano.exe.config
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS-Solano.exe
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS-Solano.pdb
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\bin\Debug\HRMIS-Solano.exe
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\bin\Debug\HRMIS-Solano.pdb
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmArrival.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmBR.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmChangePass.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmConfiguration.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmCSE.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmEB.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFB.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLogin.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLS.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLSreport.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmMain.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmOI.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmOIC.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPDSmainreport.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPDSpreview.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPI.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPI2.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPImain.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmRef.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSiblings.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSpouse.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmTP.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmUserAcct.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmUserLogs.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmVW.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmWE.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS_Solano.Properties.Resources.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\HRMIS-Solano.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\RdlCompile.cache
+C:\Users\Administrator\Desktop\HRMIS-Solano - old\HRMIS-Solano\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\bin\Debug\HRMIS-Solano.exe.config
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS-Solano.exe
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS-Solano.pdb
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\bin\Debug\HRMIS-Solano.exe
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\bin\Debug\HRMIS-Solano.pdb
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmArrival.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmBR.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmChangePass.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmConfiguration.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmCSE.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmEB.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFB.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLogin.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLS.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLSreport.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmMain.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmOI.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmOIC.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPDSmainreport.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPDSpreview.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPI.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPI2.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPImain.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmRef.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSiblings.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSpouse.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmTP.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmUserAcct.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmUserLogs.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmVW.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmWE.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS_Solano.Properties.Resources.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\HRMIS-Solano.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\RdlCompile.cache
+C:\Users\Administrator\Desktop\HRMIS-Solano - new\HRMIS-Solano\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\bin\Debug\HRMIS-Solano.exe.config
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS-Solano.exe
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS-Solano.pdb
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\bin\Debug\HRMIS-Solano.exe
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\bin\Debug\HRMIS-Solano.pdb
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmArrival.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmBR.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmChangePass.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmConfiguration.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmCSE.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmEB.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFB.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLogin.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLS.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLSreport.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmMain.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmOI.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmOIC.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPDSmainreport.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPDSpreview.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPI.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPI2.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPImain.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmRef.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSiblings.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSpouse.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmTP.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmUserAcct.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmUserLogs.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmVW.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmWE.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.Properties.Resources.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS-Solano.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\RdlCompile.cache
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmTU.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmTUReport.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddDTU.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLC.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAILSR.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLR.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSR.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSRBPNo.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmMinUsed.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmALReport.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAOIL.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPVAL.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\bin\Debug\HRMIS-Solano.exe.config
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS-Solano.exe
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS-Solano.pdb
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\bin\Debug\HRMIS-Solano.exe
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\bin\Debug\HRMIS-Solano.pdb
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddDTU.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAILSR.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmALReport.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAOIL.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmArrival.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmBR.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmChangePass.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmConfiguration.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmCSE.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmEB.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFB.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLC.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLogin.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLR.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLS.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLSreport.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmMain.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmMinUsed.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmOI.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmOIC.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPDSmainreport.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPDSpreview.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPI.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPI2.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPImain.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPVAL.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmRef.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSiblings.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSpouse.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSR.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSRBPNo.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmTP.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmTU.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmTUReport.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmUserAcct.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmUserLogs.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmVW.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmWE.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.Properties.Resources.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS-Solano.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\RdlCompile.cache
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLCReport.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLCrepAI.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmCLC.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmADDCLC.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSRrep.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddSR.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmWLS.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFC.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFR.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLWLSrep.resources
+C:\Users\Administrator\Desktop\HRMIS-Solano - latest new2\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddWLS.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\bin\Debug\HRMIS-Solano.exe.config
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\bin\Debug\HRMIS-Solano.exe
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\bin\Debug\HRMIS-Solano.pdb
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmADDCLC.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddDTU.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddFC.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddFR.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddME.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddSR.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddSumLC.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddWLS.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAILSR.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmALReport.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAOIL.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmArrival.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmBR.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmChangePass.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmCLC.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmCondition.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmConfiguration.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmCSE.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmEB.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFB.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFC.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFCreport.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFR.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFRreport.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLC.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLCrepAI.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLCReport.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLogin.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLR.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLS.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLSreport.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLWLSrep.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmMain.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmMasterlistR.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmMinUsed.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmOI.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmOIAdmin.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmOIC.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPage1.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPage2.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPDSmainreport.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPDSpreview.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPI.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPI2.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPImain.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPVAL.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmRef.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSiblings.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSpouse.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSR.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSRBPNo.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSRrep.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSummaryAL.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSummaryLCrep.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmTP.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmTU.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmTUReport.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmUserAcct.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmUserLogs.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmVW.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmWE.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmWLS.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.Properties.Resources.resources
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS-Solano.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\RdlCompile.cache
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\RdlCompile.compiled
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS-Solano.exe
+C:\Users\user\Desktop\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS-Solano.pdb
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\bin\Debug\HRMIS-Solano.exe.config
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS-Solano.exe
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS-Solano.pdb
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\bin\Debug\HRMIS-Solano.exe
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\bin\Debug\HRMIS-Solano.pdb
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\ResolveAssemblyReference.cache
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmADDCLC.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddDTU.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddFC.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddFR.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddME.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddSR.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddSumLC.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddWLS.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAILSR.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmALReport.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAOIL.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmArrival.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmBR.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmChangePass.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmCLC.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmCondition.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmConfiguration.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmCSE.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmEB.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFB.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFC.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFCreport.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFR.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFRreport.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLC.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLCrepAI.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLCReport.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLogin.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLR.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLS.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLSreport.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLWLSrep.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmMain.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmMasterlistR.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmMinUsed.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmOI.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmOIAdmin.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmOIC.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPage1.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPage2.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPDSmainreport.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPDSpreview.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPI.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPI2.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPImain.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPVAL.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmRef.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSiblings.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSpouse.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSR.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSRBPNo.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSRrep.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSummaryAL.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSummaryLCrep.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmTP.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmTU.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmTUReport.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmUserAcct.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmUserLogs.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmVW.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmWE.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmWLS.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.Properties.Resources.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS-Solano.csproj.GenerateResource.Cache
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\RdlCompile.cache
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\RdlCompile.compiled
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPersonal.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPersonalLocatorSlip.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLSreportnew.resources
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\bin\Debug\HRMIS-Solano.exe.manifest
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\bin\Debug\HRMIS-Solano.application
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS-Solano.TrustInfo.xml
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS-Solano.exe.manifest
+F:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS-Solano.application
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\bin\Debug\HRMIS-Solano.exe.config
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS-Solano.exe
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS-Solano.pdb
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\bin\Debug\HRMIS-Solano.exe.manifest
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\bin\Debug\HRMIS-Solano.application
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\bin\Debug\HRMIS-Solano.exe
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\bin\Debug\HRMIS-Solano.pdb
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\ResolveAssemblyReference.cache
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmADDCLC.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddDTU.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddFC.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddFR.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddME.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddSR.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddSumLC.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddWLS.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAILSR.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmALReport.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAOIL.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmArrival.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmBR.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmChangePass.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmCLC.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmCondition.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmConfiguration.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmCSE.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmEB.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFB.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFC.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFCreport.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFR.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFRreport.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLC.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLCrepAI.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLCReport.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLogin.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLR.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLS.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLSreport.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLWLSrep.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmMain.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmMasterlistR.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmMinUsed.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmOI.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmOIAdmin.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmOIC.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPage1.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPage2.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPDSmainreport.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPDSpreview.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPersonalLocatorSlip.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPI.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPI2.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPImain.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPVAL.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmRef.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSiblings.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSpouse.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSR.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSRBPNo.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSRrep.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSummaryAL.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSummaryLCrep.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmTP.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmTU.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmTUReport.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmUserAcct.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmUserLogs.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmVW.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmWE.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmWLS.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.Properties.Resources.resources
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS-Solano.csproj.GenerateResource.Cache
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\RdlCompile.cache
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\RdlCompile.compiled
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS-Solano.TrustInfo.xml
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS-Solano.exe.manifest
+G:\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS-Solano.application
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\bin\Debug\HRMIS-Solano.exe.config
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS-Solano.exe
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS-Solano.pdb
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\bin\Debug\HRMIS-Solano.exe.manifest
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\bin\Debug\HRMIS-Solano.application
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\bin\Debug\HRMIS-Solano.exe
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\bin\Debug\HRMIS-Solano.pdb
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmADDCLC.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddDTU.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddFC.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddFR.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddME.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddSR.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddSumLC.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAddWLS.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAILSR.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmALReport.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmAOIL.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmArrival.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmBR.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmChangePass.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmCLC.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmCondition.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmConfiguration.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmCSE.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmEB.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFB.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFC.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFCreport.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFR.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmFRreport.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLC.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLCrepAI.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLCReport.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLogin.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLR.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLS.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLSreport.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmLWLSrep.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmMain.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmMasterlistR.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmMinUsed.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmOI.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmOIAdmin.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmOIC.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPage1.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPage2.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPDSmainreport.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPDSpreview.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPersonalLocatorSlip.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPI.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPI2.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPImain.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmPVAL.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmRef.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSiblings.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSpouse.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSR.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSRBPNo.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSRrep.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSummaryAL.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmSummaryLCrep.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmTP.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmTU.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmTUReport.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmUserAcct.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmUserLogs.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmVW.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmWE.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmWLS.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.Properties.Resources.resources
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS-Solano.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\RdlCompile.cache
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\RdlCompile.compiled
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS-Solano.TrustInfo.xml
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS-Solano.exe.manifest
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS-Solano.application
+C:\Users\user\Desktop\Final HRMISS\HRMIS-Solano - latest\HRMIS-Solano\obj\Debug\HRMIS_Solano.frmBirthdayReport.resources
