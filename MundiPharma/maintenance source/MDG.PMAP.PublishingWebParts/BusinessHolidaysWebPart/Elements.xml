@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="BusinessHolidaysWebPart" List="113" Url="_catalogs/wp">
+    <File Path="BusinessHolidaysWebPart\BusinessHolidaysWebPart.webpart" Url="MDG.PMAP.PublishingWebParts_BusinessHolidaysWebPart.webpart" Type="GhostableInLibrary" >
+      <Property Name="Group" Value="PMAP WebParts" />
+      <Property Name="ChromeType" Value="None"/>
+    </File>
+  </Module>
+</Elements>
