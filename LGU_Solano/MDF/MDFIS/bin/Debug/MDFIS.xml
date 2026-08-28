@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MDFIS
+</name>
+</assembly>
+<members>
+<member name="T:MDFIS.dsReport.tblsummaryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MDFIS.dsReport.tblTotalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MDFIS.dsReport.tblLedgerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MDFIS.dsReport.tblsummaryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MDFIS.dsReport.tblTotalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MDFIS.dsReport.tblLedgerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MDFIS.dsReport.tblsummaryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MDFIS.dsReport.tblTotalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MDFIS.dsReport.tblLedgerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MDFIS.dsReport">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

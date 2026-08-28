@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MDFIS", "MDFIS\MDFIS.vbproj", "{A1102D86-139C-4DA6-A891-EDB55CE1AA94}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MSDFIS", "MSDFIS\MSDFIS.vdproj", "{AAE7B380-A236-44BB-908E-53E0991E81C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1102D86-139C-4DA6-A891-EDB55CE1AA94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1102D86-139C-4DA6-A891-EDB55CE1AA94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1102D86-139C-4DA6-A891-EDB55CE1AA94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1102D86-139C-4DA6-A891-EDB55CE1AA94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAE7B380-A236-44BB-908E-53E0991E81C6}.Debug|Any CPU.ActiveCfg = Debug
+		{AAE7B380-A236-44BB-908E-53E0991E81C6}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
